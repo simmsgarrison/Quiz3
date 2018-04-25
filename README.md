@@ -1,3 +1,3 @@
 # Quiz3
 
-# This data consists of the neighborhood boundaries in Portland, Oregon
+# This data is the neighborhood boundaries in Portland.  
